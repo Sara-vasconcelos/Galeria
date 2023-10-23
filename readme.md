@@ -1,0 +1,1 @@
+Galeria de fotos que são alteradas quando a página é atualizada
